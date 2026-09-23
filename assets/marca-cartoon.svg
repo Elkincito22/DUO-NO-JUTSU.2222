@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+<rect width="400" height="400" rx="80" fill="#07050b"/>
+<circle cx="200" cy="185" r="145" fill="#241038" stroke="#9d4edd" stroke-width="8"/>
+<path d="M200 72 L225 125 L280 140 L235 177 L242 235 L200 205 L158 235 L165 177 L120 140 L175 125 Z" fill="#7b35b2" stroke="#f4e8d2" stroke-width="6"/>
+<path d="M112 250 Q200 175 288 250 L275 330 Q200 365 125 330Z" fill="#d58b32" stroke="#f4e8d2" stroke-width="8"/>
+<path d="M125 276 Q200 235 275 276" fill="none" stroke="#c82032" stroke-width="13"/>
+<circle cx="165" cy="295" r="10" fill="#07050b"/><circle cx="235" cy="295" r="10" fill="#07050b"/>
+<text x="200" y="382" text-anchor="middle" font-family="Georgia" font-weight="700" font-size="25" fill="#f4e8d2">DUO NO JUTSU</text>
+</svg>
